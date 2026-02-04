@@ -113,7 +113,7 @@
 
                 <div class="text-right p-t-8 p-b-31">
                     <a href="#">
-                        ohh You Forgot password?
+                        Ohh No You Forgot password?
                     </a>
                 </div>
 
